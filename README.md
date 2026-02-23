@@ -1,17 +1,68 @@
-## Hello, World! 👋
-🌟 Welcome to my GitHub! I’m Elizabeth Drew, a Backend Software Engineer with a zest for coding and a knack for rapid learning. Just two years ago, I embarked on my coding journey and haven’t looked back since!
+# Elizabeth Drew
 
-## Who Am I? 🚀
-I’m a tech enthusiast currently weaving magic with Java, Spring Boot, Docker, and Kubernetes. By day, I’m a Software Developer at Coutts, diving deep into microservices and REST APIs. By night, I turn into an e-commerce wizard as the owner of Osmology, where I blend technology with entrepreneurship to deliver outstanding customer experiences.
+Automation Systems Architect  
+Software Engineer | Low-Code Automation | Make.com | Adobe Fusion
 
-## My Mission 🌍
-I believe in the power of technology to make a difference, especially in making financial services accessible to all — not just the elite. Here, you’ll find projects that reflect my commitment to inclusivity and my passion for fintech innovation.
+---
 
-## What’s Cooking? 🍳
-Check out my repositories for a taste of what I’ve been up to:
+## From simple automations to reliable systems
 
-### Networth Tracker Application: 
-A microservice marvel helping users track their financial health. It’s a concoction of Java, Spring, Docker, and Kubernetes, seasoned with a sprinkle of Prometheus and Grafana for that extra zing.
+I design and implement structured automation systems for SMEs, freelancers, and growing teams.
 
-## Let’s Connect! 🤝
-If my projects pique your interest or you just want to chat tech, fintech, or anything in between, feel free to reach out! Also, I’m always on the lookout for feedback and collaboration to make banking better for everyone.
+Low-code tools like Make.com make it easy to build workflows. What’s less obvious is how to manage them safely as they grow.
+
+My work focuses on:
+
+- Designing maintainable automation architecture  
+- Introducing version control and change visibility  
+- Setting up sensible dev / test / production workflows  
+- Refactoring fragile or overly complex automation  
+- Applying engineering discipline without over-engineering  
+
+---
+
+## Background
+
+I first began using low-code automation while running my own e-commerce business. During Covid restrictions, automation became the only way to scale operations without hiring additional staff. 
+
+After successfully exiting the business, I moved into backend engineering roles within regulated banking environments, working with Java, Python, and enterprise integration systems.
+
+Today, my perspective sits between SME pragmatism and enterprise discipline.
+
+---
+
+## What I Write About
+
+On my blog, I explore topics including:
+
+- How to version control Make.com automations  
+- Managing change safely in low-code workflows  
+- Dev / test / production environments for visual systems  
+- Scaling automation in small teams  
+- Introducing governance without slowing teams down  
+
+🔗 Blog: [https://elizabethdrew.co]
+
+---
+
+## Technologies & Tools
+
+- Make.com  
+- Adobe Workfront Fusion  
+- Java (Spring Boot)  
+- Python  
+- REST APIs  
+- Git & version control  
+- Workflow architecture & system design  
+
+---
+
+## Current Focus
+
+- Safer promotion workflows for visual automation  
+- Change visibility in graph-based systems  
+- Lightweight governance models for SMEs  
+
+---
+
+If you're building automation that has become business-critical and want it to be reliable, structured, and scalable — I’m always happy to talk.
